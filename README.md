@@ -1,7 +1,7 @@
 # House Flipping Analysis for DreamFlip Ventures
 
 ## Overview
-![Real Estate](img\house_sale.jpg)
+![Real Estate](img/house_sale.jpg)
 
 This repository contains an analysis of the King County real estate market aimed at assisting DreamFlip Ventures, a house flipping company, in making informed investment decisions. The analysis utilizes a statistical model to identify key factors that influence property prices and returns on investment. By understanding these factors, DreamFlip Ventures can strategically acquire properties, plan renovations, and optimize the timing of resale.
 
