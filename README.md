@@ -18,9 +18,13 @@ The analysis employs a statistical model, specifically multiple linear regressio
 The regression analysis yielded several significant findings:
 
 - Property location, particularly proximity to Lake Union, has a strong positive impact on property prices.
-- Property condition is a crucial factor, with properties in poor condition priced lower than those in better condition. DreamFlip Ventures can leverage this by acquiring properties in poor condition and improving them to increase their value.
-- The addition of one or two bathrooms positively affects property prices, providing an opportunity for DreamFlip Ventures to enhance the value of properties through strategic renovations.
-- The model suggests that spring, with its favorable market conditions and increased buyer activity, could be a good season for purchasing properties in Lake Union.
+![location](img/location.jpg)
+
+-DreamFlip Ventures can enhance property value by adding one or two bathrooms through strategic renovations. Additionally, investing in houses with poor condition and lower grades offers a lucrative opportunity for increasing market value. By renovating these properties, DreamFlip Ventures can maximize profitability. Thorough market research, property evaluations, and strategic renovations are key to success in the real estate market.
+![grade](img/grade.jpg)
+
+- The model suggests that spring, with its favorable market conditions and increased buyer activity, could be a good season for purchasing properties in Lake Union but i cannot back this fact.
+![grade](img/time.jpg)
 
 ## Conclusion
 
