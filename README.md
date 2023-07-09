@@ -18,9 +18,13 @@ The dataset provides valuable insights into the housing market in King County an
 ## Modeling
 The analysis employs a statistical model, specifically multiple linear regression, to analyze the relationship between various predictors and property prices. Factors such as location, property condition, and other attributes are considered to identify significant drivers of property value. The model provides insights into the impact of these factors on pricing, allowing DreamFlip Ventures to make data-backed decisions regarding property selection, renovation strategies, and optimal timing for resale.
 
-### Baseline vs Improved 
-![Real Estate](img/model22.jpg)
+![price](img/priced.png)
+
+
+### Model Performance 
+![performance](img/model22.png)
 -This shows that the second model did better with the residue being more normaly distributed
+
 
 ## Regression Results
 The regression analysis yielded several significant findings:
@@ -29,7 +33,7 @@ The regression analysis yielded several significant findings:
 ![location](img/location.jpg)
 
 - DreamFlip Ventures can enhance property value by adding one or two bathrooms through strategic renovations. Additionally, investing in houses with poor condition and lower grades offers a lucrative opportunity for increasing market value. By renovating these properties, DreamFlip Ventures can maximize profitability. Thorough market research, property evaluations, and strategic renovations are key to success in the real estate market.
-![condition](img/condition.jpg)
+![condition](img/condition.png)
 
 - The model suggests that spring, with its favorable market conditions and increased buyer activity, could be a good season for purchasing properties in Lake Union. However, further analysis and market monitoring are recommended to validate this finding.
 ![time](img/time.jpg)
@@ -40,4 +44,20 @@ DreamFlip Ventures can leverage the insights from this analysis to make informed
 Continuous market monitoring, thorough property evaluations, and data-driven decision-making are crucial for DreamFlip Ventures to succeed in the competitive house flipping industry. This analysis serves as a foundation for their strategic approach, empowering them to optimize their house flipping projects and maximize profitability in the King County real estate market.
 
 For detailed analysis, data exploration, and modeling code, please refer to the provided student notebook available in the [student notebook](https://github.com/u-mar/Phase-2-Project/blob/main/student.ipynb).
+
+## Presentation Link 
+Link:[presentation](https://github.com/u-mar/Phase-2-Project/blob/main/presentation.pdf).
+
+## Repository Structure
+├── img
+│   ├── bath.png
+│   ├── condition.png
+│   ├── house_sale.png
+├── Data
+│   ├── k_house.csv
+│   ├── column_info.md
+├── .gitignore
+├── presentation.pdf
+├── README
+├── student.ipynb
 
