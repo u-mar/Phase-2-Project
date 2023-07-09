@@ -51,16 +51,19 @@ For detailed analysis, data exploration, and modeling code, please refer to the 
 Link:[presentation](https://github.com/u-mar/Phase-2-Project/blob/main/presentation.pdf).
 
 ## Repository Structure
-"""
+'''
 ├── img
-│ ├── bath.png
-│ ├── condition.png
-│ ├── house_sale.png
+│   ├── bath.png
+│   ├── condition.png
+│   ├── house_sale.png
+│   ├── location.png
+│   ├── price.png
+│   └── model22.png
 ├── Data
-│ ├── k_house.csv
-│ ├── column_info.md
+│   ├── k_house.csv
+│   └── column_info.md
 ├── .gitignore
 ├── presentation.pdf
 ├── README.md
-├── student.ipynb
-"""
+└── student.ipynb
+'''
