@@ -49,7 +49,7 @@ For detailed analysis, data exploration, and modeling code, please refer to the 
 Link:[presentation](https://github.com/u-mar/Phase-2-Project/blob/main/presentation.pdf).
 
 ## Repository Structure
-
+"""
 ├── img
 │ ├── bath.png
 │ ├── condition.png
@@ -61,4 +61,4 @@ Link:[presentation](https://github.com/u-mar/Phase-2-Project/blob/main/presentat
 ├── presentation.pdf
 ├── README.md
 ├── student.ipynb
-
+"""
