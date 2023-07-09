@@ -18,12 +18,14 @@ The dataset provides valuable insights into the housing market in King County an
 ## Modeling
 The analysis employs a statistical model, specifically multiple linear regression, to analyze the relationship between various predictors and property prices. Factors such as location, property condition, and other attributes are considered to identify significant drivers of property value. The model provides insights into the impact of these factors on pricing, allowing DreamFlip Ventures to make data-backed decisions regarding property selection, renovation strategies, and optimal timing for resale.
 
-![price](img/priced.png)
 
-
-### Model Performance 
+### Model Comparison 
 ![performance](img/model22.png)
 -This shows that the second model did better with the residue being more normaly distributed
+
+### Model Validation
+![price](img/priced.png)
+
 
 
 ## Regression Results
