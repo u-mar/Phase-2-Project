@@ -58,6 +58,7 @@ Link:[presentation](https://github.com/u-mar/Phase-2-Project/blob/main/presentat
 │   ├── column_info.md
 ├── .gitignore
 ├── presentation.pdf
-├── README
+├── README.md
 ├── student.ipynb
+
 
